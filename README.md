@@ -5,4 +5,4 @@ I'm reading for a Bachelor of Science in Digital Games Development. I like game 
 
 I know a variety of languages, like Web (HTML, JS, CSS), C#, Lua (Roblox) and certain frameworks like Svelte; However, I'm still expanding my knowledge through my studies.
 
-I'm actively working on my [portfolio](https://github.com/althruist/Portfolio) if you're interested in seeing on what I do! :)
+I'm actively working on my [portfolio](https://althruist.fyi) if you're interested in seeing on what I do! :)
